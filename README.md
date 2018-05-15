@@ -1,6 +1,6 @@
-# fileger
+# Fileger
 
-File manager for Yii2 Framework
+File manager for Yii2 Framework.
 
 ## Installation
 
@@ -10,8 +10,8 @@ Add
 
 ```json
 {
-	"type": "git",
-	"url": "https://github.com/nowmovesoft/fileger"
+    "type": "git",
+    "url": "https://github.com/nowmovesoft/fileger"
 }
 ```
 
