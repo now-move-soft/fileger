@@ -10,7 +10,7 @@ $this->params['breadcrumbs'][] = ['label' => Module::t('main', 'File manager'), 
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 
-<div class="filemanager-default-settings">
+<div class="fm-setting-index">
     <h1><?= Module::t('main', 'Settings') ?></h1>
     
     
