@@ -16,7 +16,7 @@ use yii\helpers\ArrayHelper;
  * @since v0.1
  */
 class SettingsManager extends Model
-{    
+{
     /**
      * @var static Instance of this class
      */
